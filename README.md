@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/43786652/106076415-cad08900-610f-11eb-9976-e21c8a335ad6.jpg" alt="drawing" width="200"/>
+**Powered By**  
+
+<img src="https://raw.githubusercontent.com/michael-spengler/decentralized-finance/main/logo-v2.svg" alt="drawing" width="200"/>
 
 
 # wallstreetbets - under construction - just drafts
