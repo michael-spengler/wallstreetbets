@@ -1,6 +1,6 @@
 **Powered By**  
 
-<img src="https://raw.githubusercontent.com/michael-spengler/decentralized-finance/main/logo-v2.svg" alt="drawing" width="200"/>
+[<img src="https://raw.githubusercontent.com/michael-spengler/decentralized-finance/main/logo-v2.svg" alt="drawing" width="200"/>](https://www.npmjs.com/package/decentralized-finance-defi)
 
 
 # wallstreetbets - under construction - just drafts
