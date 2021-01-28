@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/43786652/106076415-cad08900-610f-11eb-9976-e21c8a335ad6.jpg" alt="drawing" width="200"/>
+
+
 # wallstreetbets
 This package connects your deno programs to the wallstreetbets subreddit (https://www.reddit.com/r/wallstreetbets/ resp. https://t.me/WallStreetBetsReddit).
 
