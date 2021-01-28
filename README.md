@@ -33,3 +33,6 @@ This module will be enhanced by deep learning capabilities as soon as https://de
 This package shall increase freedom for those who increase freedom. Actions of the weak shall be private. Actions of the powerful shall be transparent.
 
 
+## telegram developer channel
+https://t.me/wallstreetbetsdevelopers
+
