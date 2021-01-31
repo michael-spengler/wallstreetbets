@@ -8,6 +8,9 @@ This package connects your deno programs to the wallstreetbets subreddit (https:
 
 Some of the features of https://www.npmjs.com/package/decentralized-finance-defi could be copied to this Deno module as soon as the corresponding libraries ... are ready for Deno.
 
+This package shall increase freedom for those who increase freedom. As such it supports [wallstreetbets](https://www.reddit.com/r/wallstreetbets/) and the [klopapier.exchange](https://klopapier.exchange).
+
+
 ## usage examples
 ```ts
 import { WallStreetBetsService } from 'https://deno.land/x/wallstreetbets/src/wallstreetbets.service.ts'
